@@ -23,8 +23,8 @@ Buona analisi e buon lavoro!
 
 ## Installazione e Avvio
 
-*(Questa sezione dovrà essere completata dallo studente come parte dell'Esercizio 1, includendo i comandi per installare le dipendenze ed eseguire l'applicazione e i test).*
-
----
+1. scaricare i file da git hub
+2. per runnare i test npm test
+3. per utilizzare il programma g++ nomefile.js ./prova
 
 *Suggerimento: Presta particolare attenzione ai requisiti dell'Esercizio 1 del laboratorio per completare e correggere questo README e gli altri file di configurazione.*

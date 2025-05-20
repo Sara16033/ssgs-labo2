@@ -17,19 +17,3 @@ dist/
 .coverage
 .pytest_cache/
 htmlcov/
-
-# Dipendenze
-node_modules/
-
-
-# File temporanei e di sistema
-*.tmp
-*.temp
-*.swp
-.DS_Store
-
-# Cache di npm
-.npm
-
-# Cartelle di test temporanee
-coverage/
